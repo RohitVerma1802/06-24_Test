@@ -1,9 +1,10 @@
 import React from 'react'
 
 const Context = () => {
+  setCounter ()
   return (
-    <div>Context</div>
+
   )
 }
 
-export default Context
+export default Context;
